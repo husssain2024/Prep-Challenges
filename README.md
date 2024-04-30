@@ -1,2 +1,2 @@
 # Prep-Challenges
-hte Challenges 
+the Challenges 
